@@ -1,6 +1,6 @@
 # Instagram Clone
 
-Instagram Clone with Realtime Functionality and Offline Support with Service Workers. Made using React and GraphQL.
+Instagram Clone with Realtime Functionality and Offline Support with Service Workers.
 
 ### Prerequisites
 - Git
