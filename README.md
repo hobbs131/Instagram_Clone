@@ -63,6 +63,14 @@ $ http-server build
 
 > Ensure your backend server is running simultaneously
 
+# Demo
+
+<img src="demo/demo.png" alt="Instagram clone">
+
+<img src="demo/demo1.gif" alt="Realtime Posts">
+
+<img src="demo/demo2.png" alt="Offline Mode">
+
 ## Built With
 - [React](https://reactjs.org) - A Javascript library for building user interfaces
 - [Express](https://expressjs.com) - Node.js web application framework
