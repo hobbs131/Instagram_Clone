@@ -1,6 +1,6 @@
 # Instagram Clone
 
-This is a demo application showing a simple Instagram Clone with Realtime Functionality and Offline Support with Service Workers. Made using React and GraphQL.
+Instagram Clone with Realtime Functionality and Offline Support with Service Workers. Made using React and GraphQL.
 
 ### Prerequisites
 - Git
