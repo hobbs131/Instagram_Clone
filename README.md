@@ -1,6 +1,6 @@
 # Instagram Clone
 
-Instagram Clone with Realtime Functionality and Offline Support with Service Workers
+Instagram Clone with Realtime Functionality and Offline Support with Service Workers.
 
 ### Prerequisites
 - Git
